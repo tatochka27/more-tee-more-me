@@ -1,0 +1,23 @@
+{
+  "name": "more-tee-more-me",
+  "version": "1.0.0",
+  "description": "New app version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatochka27/more-tee-more-me.git"
+  },
+  "dependencies": {
+    "my-hot-tea": "1.0.0",
+    "more-tea-no-coffee": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatochka27/more-tee-more-me/issues"
+  },
+  "homepage": "https://github.com/tatochka27/more-tee-more-me#readme"
+}
